@@ -1,6 +1,6 @@
 /* minimal.css v1.0 by @mflxu */
-/* custom font from cdnfonts.com */
-@import url("http://fonts.cdnfonts.com/css/sf-mono");
+/* custom font from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
 /* root variables */
 :root {
   --color-primary: #6441a5;
@@ -35,7 +35,7 @@ html{
 example : 1rem = 10px, 2.5rem = 25px, 5rem = 50px...
 */
 body {
-  font-family: "SF Mono", sans-serif;
+  font-family: 'Sora', sans-serif;
   line-height: 1.5;
   font-weight: 400;
   color: var(--color-darker);
