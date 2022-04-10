@@ -40,7 +40,7 @@ body {
   font-weight: 400;
   color: var(--color-darker);
   background-color: var(--color-light);
-  height: 1000vh;
+  height: 100vh;
   box-sizing: border-box;
 }
 /* ----- container ----- */
